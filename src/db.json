@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "hmmvaons4",
+      "name": "Sản phẩm 20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-9.jpg?alt=media&token=dcfd6a71-422b-42b0-ab7f-f89a6e1e2e10",
+      "price": "20000",
+      "detail": "Trong talkshow lần này FPT Shop cùng Tiến Sĩ Huỳnh Anh Bình muốn chia sẻ cùng các bạn những trải nghiệm và câu chuyện về việc chọn nghề, chọn ngành học cũng như lưu ý quan trọng cho kỳ thi sắp tới!",
+      "idCate": "42gnpgj4g",
+      "status": "Hết hàng"
+    },
+    {
+      "id": "66895mcre",
+      "name": "Sản phẩm 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-3.jpg?alt=media&token=09609339-a33c-4f01-aa7d-ac01bb4ad135",
+      "price": "30000",
+      "detail": "Trong talkshow lần này FPT Shop cùng Tiến Sĩ Huỳnh Anh Bình muốn chia sẻ cùng các bạn những trải nghiệm và câu chuyện về việc chọn nghề, chọn ngành học cũng như lưu ý quan trọng cho kỳ thi sắp tới!",
+      "idCate": "k0yok5hue",
+      "status": "Còn hàng"
+    },
+    {
+      "id": "qmxn77rwo",
+      "name": "Intelligent Wooden ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-5.jpg?alt=media&token=17a4486a-a84e-4d4b-8433-715f1df8d020",
+      "price": "500000",
+      "detail": "Trong talkshow lần này FPT Shop cùng Tiến Sĩ Huỳnh Anh Bình muốn chia sẻ cùng các bạn những trải nghiệm và câu chuyện về việc chọn nghề, chọn ngành học cũng như lưu ý quan trọng cho kỳ thi sắp tới!",
+      "idCate": "42gnpgj4g",
+      "status": "Còn hàng"
+    },
+    {
+      "id": "vv57pfhus",
+      "name": "Sản phẩm 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-3.jpg?alt=media&token=2d954cd7-823f-4bb6-9a87-66e8257fbd71",
+      "price": "20000",
+      "detail": "Chi Tiết Sản Phẩm",
+      "idCate": "8sdgt0m9h",
+      "status": "Còn hàng"
+    }
+  ],
+  "categories": [
+    {
+      "id": "42gnpgj4g",
+      "name": "Hoa Quả",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-4.jpg?alt=media&token=0bb498ce-bbd9-4060-a5a0-71696c9ca482"
+    },
+    {
+      "id": "k0yok5hue",
+      "name": "Rau Củ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-4.jpg?alt=media&token=79580568-0726-48f2-a520-796f607c863c"
+    },
+    {
+      "id": "mlpyumd3h",
+      "name": "Danh mục 5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-1.jpg?alt=media&token=3c1b2dd2-c057-4208-acce-5d9b6b5bbdd1"
+    },
+    {
+      "id": "8sdgt0m9h",
+      "name": "Danh mục 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fproduct-9.jpg?alt=media&token=dbcd526c-0792-4db4-b6da-246fadd55b8e"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "omxcopr2k",
+      "name": "Bài viết 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-1.jpg?alt=media&token=654fabcb-0a23-435a-91c2-b8755c5f37f1",
+      "shortdetail": "Sed porttitor lectus nibh",
+      "detail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    },
+    {
+      "id": "bt98ewkpp",
+      "name": "Bài Viết 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-4.jpg?alt=media&token=0982857e-c203-473b-8c77-1933ac7a1e03",
+      "shortdetail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui",
+      "detail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    },
+    {
+      "id": "ewu93c9u1",
+      "name": "Bài viết 3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-1.jpg?alt=media&token=0dd855ae-a40a-4c2b-ad91-e3b3a1a2c64a",
+      "shortdetail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui",
+      "detail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    },
+    {
+      "id": "87elhzngt",
+      "name": "Bài viết 4",
+      "image": "https://firebasestorage.googleapis.com/v0/b/codex08012.appspot.com/o/images%2Fblog-3.jpg?alt=media&token=b193764f-aa94-4c15-a06d-5f6e60dd2fed",
+      "shortdetail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui",
+      "detail": "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem."
+    }
+  ]
+}
